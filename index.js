@@ -239,4 +239,4 @@ function curdate()
 curdate();
 setInterval(curdate, 1000);
 
-//localStorage.clear()
+localStorage.clear()
