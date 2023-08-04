@@ -267,25 +267,38 @@ color: black;
     padding-top: 50px;
     width: 100%;
 }
+.left{
+ width: 100%;
+ 
+}
+.title{
+ padding-right:30vh ;
+ position: relative;
+}
 
 .card {
   height: 250px;
   width: 250px;
+  margin-left: 10vh;
 }
 
 .D{
   font-size: 2vh;
 }
+.data{
+  padding-left: 15vh;
+}
 .convs{
   display: flex;
   flex-direction: row;
-  margin-right: 1px;
+  margin-right: 1vh;
   float: left;
-  padding-left: 5vh;
+  padding-left: 25vh;
 }
 .conC{
-  margin-right: 2px;
+  margin-right: 3px;
 }
+
   }
 
 
@@ -294,6 +307,7 @@ color: black;
         width: 300px;
         height: 250px;
       }
+      
   }
 
   @media(max-width: 1200px) {
