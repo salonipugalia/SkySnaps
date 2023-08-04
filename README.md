@@ -33,4 +33,6 @@ SkySnaps is an interactive web application that provides real-time weather infor
 - Observe the dynamically changing background images that correspond to the time of day and weather conditions.
 - Explore detailed insights into sunrise and sunset times, visibility, and wind characteristics.
 - Toggle between Celsius and Fahrenheit temperature units for convenience.
+- you can delete the searched cities by double clicking 
 - SkySnaps offers a visually engaging and informative experience for users curious about the current weather conditions in various cities. With its easy-to-use interface and interactive features, the app is a practical tool for staying updated on weather changes around the world.
+
